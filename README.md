@@ -28,6 +28,12 @@
 
 
 <h2>KULLANILAN TEKNOLOJİLER</h2>
---JAVA SCRIPT  
+--JAVA SCRIPT 
+
+
 --CSS3  
+
+
 --HTML5  
+
+
